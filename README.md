@@ -1,0 +1,1 @@
+This project is part of the Foundations course on The Odin Project. I will be setting up a basic recipe page in HTML with the skills I have learned thus far.
